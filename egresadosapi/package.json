@@ -10,7 +10,7 @@
     "start": "node . ",
     "dev": "nodemon ."
   },
-  "author": "Cristopher Galeano Murillo & Elias Segura Villegas",
+  "author": "ComisionAR",
   "license": "ISC",
   "dependencies": {
     "apollo-server": "^2.25.0",
